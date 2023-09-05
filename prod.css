@@ -85,3 +85,6 @@ i.icon-2x {
   .servive-block-light {
     background: #ecf0f1;
   }
+body{
+  font-weight: bold;
+}
